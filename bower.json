@@ -1,0 +1,27 @@
+{
+  "name": "movie_website",
+  "version": "0.0.0",
+  "authors": [
+    "xiebaochun <463449055@qq.com>"
+  ],
+  "description": "good movie site",
+  "main": "app.js",
+  "keywords": [
+    "i",
+    "mooc"
+  ],
+  "license": "MIT",
+  "homepage": "http://xiebaochun.github.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
